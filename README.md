@@ -36,12 +36,15 @@ The following Python libraries are required to run the code in this project:
 * matplotlib
 * seaborn
 
+## Getting Started
+Once you've installed these dependencies, you can open the [Jupyter Notebook](./Mobile-Apps-Analysis.ipynb) included in this repository.
+
 ## Project Deliverables
 The following deliverables are available as part of this project:
 
-* Jupyter notebook containing the code and analysis
-* README file providing an overview of the project and its goals
-* Data file containing the iOS App Store Dataset
+* Jupyter notebook containing the code and analysis.
+* README file providing an overview of the project and its goals.
+* Data file containing the iOS App Store Dataset.
 
 ## Conclusion
 This project aimed to explore the iOS App Store Dataset and gain insights into the popularity of different types of apps, factors that influence user ratings, and pricing trends. By analyzing the dataset, we were able to identify several trends and strategies that can be used to improve app ratings and increase downloads. The findings of this project can be used by app developers and marketers to make informed decisions about pricing and promotion strategies.
